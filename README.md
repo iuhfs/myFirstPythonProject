@@ -1,0 +1,2 @@
+# myFirstPythonProject
+Just Hello World
